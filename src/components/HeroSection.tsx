@@ -26,7 +26,7 @@ const HeroSection = () => {
             Advocacia Estratégica e Consultoria Jurídica
           </h1>
           <p className="text-lg md:text-xl text-primary-foreground/80 font-body font-light leading-relaxed mb-10 max-w-2xl">
-            Atuação especializada em Direito Civil, Tributário e Previdenciário, com atendimento jurídico personalizado e consultoria online em todo o Brasil.
+            Atuação especializada em Direito Civil, Tributário e Previdenciário, oferecendo consultoria jurídica personalizada e atendimento online em todo o Brasil.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <a

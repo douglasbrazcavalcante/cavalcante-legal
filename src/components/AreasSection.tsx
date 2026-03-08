@@ -5,22 +5,22 @@ const areas = [
   {
     icon: Scale,
     title: "Direito Civil",
-    description: "Atuação em contratos, responsabilidade civil, direito de família, sucessões e demandas cíveis em geral, com foco em soluções eficientes e estratégicas.",
+    description: "Atuação em questões contratuais, responsabilidade civil, indenizações, direito de família, sucessões e consultoria jurídica preventiva para pessoas físicas e empresas.",
   },
   {
     icon: Landmark,
     title: "Direito Tributário",
-    description: "Planejamento tributário, defesa em execuções fiscais, recuperação de créditos e orientação sobre obrigações tributárias para pessoas físicas e jurídicas.",
+    description: "Atuação em planejamento tributário, defesa em execuções fiscais, recuperação de créditos tributários e orientação jurídica em matéria tributária para pessoas físicas e jurídicas.",
   },
   {
     icon: ShieldCheck,
     title: "Direito Previdenciário",
-    description: "Aposentadorias, benefícios por incapacidade, pensão por morte, revisões de benefícios e planejamento previdenciário personalizado.",
+    description: "Atuação em aposentadorias, revisões de benefícios previdenciários, benefícios por incapacidade, pensão por morte e planejamento previdenciário personalizado.",
   },
   {
     icon: Briefcase,
     title: "Consultoria Jurídica",
-    description: "Orientação jurídica preventiva e estratégica para pessoas físicas e empresas, com análise detalhada e atendimento online em todo o Brasil.",
+    description: "Consultoria jurídica online preventiva e estratégica para pessoas físicas e empresas, com análise detalhada de cada caso e atendimento em todo o Brasil.",
   },
 ];
 

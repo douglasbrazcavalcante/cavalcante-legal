@@ -11,7 +11,8 @@ const Footer = () => {
             <p className="text-sm opacity-70 font-body mb-4">Advocacia & Consultoria</p>
             <p className="text-sm opacity-60 font-body leading-relaxed">
               Douglas Braz Cavalcante<br />
-              Advogado — OAB/SP 539817
+              Advogado — OAB/SP 539817<br />
+              Atendimento jurídico para todo o Brasil
             </p>
           </div>
 
