@@ -16,8 +16,8 @@ const CtaSection = () => {
           <h2 className="font-heading text-3xl lg:text-4xl font-bold text-primary mb-6">
             Precisa de orientação jurídica?
           </h2>
-          <p className="text-muted-foreground font-body text-lg leading-relaxed mb-10">
-            Entre em contato para análise do seu caso e receba orientação jurídica especializada. Atendimento em todo o Brasil.
+           <p className="text-muted-foreground font-body text-lg leading-relaxed mb-10">
+            Entre em contato para análise do seu caso e receba orientação jurídica especializada. Atendimento online para todo o Brasil.
           </p>
           <a
             href={WHATSAPP_LINK}

@@ -20,8 +20,8 @@ const DifferentialsSection = () => {
           className="text-center mb-16"
         >
           <div className="gold-line mx-auto mb-6" />
-          <h2 className="font-heading text-3xl lg:text-4xl font-bold mb-4">
-            Diferenciais do Escritório
+           <h2 className="font-heading text-3xl lg:text-4xl font-bold mb-4">
+            Diferenciais do Atendimento
           </h2>
           <p className="font-body opacity-80 max-w-2xl mx-auto">
             Compromisso com excelência, transparência e resultados em cada atendimento.

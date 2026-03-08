@@ -34,10 +34,10 @@ const AboutSection = () => {
               Sobre o Advogado
             </h2>
             <p className="text-muted-foreground font-body leading-relaxed mb-6">
-              Douglas Braz Cavalcante é advogado inscrito na OAB/SP sob o nº 539817, com atuação especializada em Direito Civil, Tributário e Previdenciário. Sua trajetória profissional é marcada pelo compromisso com soluções jurídicas estratégicas e pela dedicação a cada caso atendido.
+              Douglas Braz Cavalcante é advogado inscrito na OAB/SP 539817, com atuação nas áreas de Direito Civil, Direito Tributário e Direito Previdenciário. O escritório atua com foco em soluções jurídicas estratégicas, oferecendo consultoria personalizada para pessoas físicas e empresas, sempre com análise detalhada de cada caso.
             </p>
             <p className="text-muted-foreground font-body leading-relaxed mb-8">
-              Com atendimento personalizado e consultoria jurídica online, o escritório presta serviços a clientes em todo o Brasil, sempre com foco na excelência técnica, transparência e resultados concretos para cada situação jurídica.
+              Com atendimento online em todo o Brasil, o escritório presta consultoria jurídica especializada com transparência, dedicação e compromisso com resultados concretos para cada cliente.
             </p>
             <div className="border-l-2 border-gold pl-6">
               <p className="font-heading text-xl font-semibold text-primary">Douglas Braz Cavalcante</p>
